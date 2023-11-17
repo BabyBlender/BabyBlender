@@ -1,0 +1,14 @@
+- 👋 Hi, I’m @BabyBlender
+- 👀 I’m interested in ...
+      -science
+      -coding
+- 🌱 I’m currently learning ...
+      -Everything
+        -python
+        -javascript
+        -html
+- 💞️ I’m looking to collaborate on ...
+      -anything?
+- 📫 How to reach me ...
+    -ask for my email
+    -ask for my discord
